@@ -1,6 +1,6 @@
 let x = 5;
 let y = 10;
-let z = x + u
+let z = x + y
 console.log (z);
 
 if (z > 10) {
