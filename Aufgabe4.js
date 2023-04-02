@@ -1,10 +1,10 @@
-let x = "5";
-let y = "10";
+let x = 5;
+let y = 10;
 let z = x + u
-console log (z);
+console.log (z);
 
 if (z > 10) {
-  conlose.log.(z is greater then 10);
+  conlose.log("z is greater then 10");
 } else {
   console.log("z is less then or equal to 10");
 }
