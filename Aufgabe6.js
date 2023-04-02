@@ -4,4 +4,4 @@ let Number2 = prompt("Please enter second number:");
 let sum = Number1 + Number2
 
       console.log(sum);
-console.log(typeoff sum);
+console.log(typeof sum);
