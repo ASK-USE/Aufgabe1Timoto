@@ -1,3 +1,3 @@
 consol.log("Hallo World!");
 
-consol.log.(Hello Peter, Hello Alex);
+consol.log("Hello Peter, Hello Alex");
